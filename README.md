@@ -22,7 +22,7 @@ Here’s what we mastered along the way:
 - **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 - **Implicit Measures:** Formulated measures to derive key insights and KPIs like `Churn Rate`, `Avg Extra International Charges` and `Avg Account Length`.
 - **Core Charts:** Utilized **Column Chart**, **Combined Column & Line Chart** to identify the top reasons behind customer churn and to analyze churn trends across age groups.
-- **Geospatial Analysis:** Leveraged **map charts** to highlight states with the highest customer churn rates.
+- **Geospatial Analysis:** Leveraged **Map Chart** to highlight states with the highest customer churn rates.
 - **KPI Indicators:** Focused on churn distribution by demographics, contract type, payment method, and account length.  
 - **Dashboard Design:** Developed a clear, intuitive layout with consistent visuals to emphasize storytelling and quick decision-making.  
 - **Interactive Filtering:**  
