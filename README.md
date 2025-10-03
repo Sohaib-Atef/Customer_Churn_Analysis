@@ -17,7 +17,7 @@ The goal is to make churn analysis accessible at a glance, so teams can take pro
 ### Dashboard File
 You can find the file for the dashboard here: [`Customer_Churn_Dashboard.pbix`](/Customer_Churn_Dashboard.pbix).
 
-## Skilled Showcased
+## Skills Showcased
 Here’s what we mastered along the way:
 - **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 - **Implicit Measures:** Formulated measures to derive key insights and KPIs like `Churn Rate`, `Avg Extra International Charges` and `Avg Account Length`.
