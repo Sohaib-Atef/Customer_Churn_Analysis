@@ -1,6 +1,6 @@
 # Customer Churn Dashboard w/ Power BI
 
-![Home Page](/images/Home_Page.jpg)
+![Home Page](/images/Intro.gif)
 
 ## Introduction
 
