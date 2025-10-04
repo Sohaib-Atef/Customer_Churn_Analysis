@@ -51,8 +51,6 @@ Here’s what we mastered along the way:
   This section helps identify which contract models or payment preferences are most associated with higher churn risk.  
 
 ![Payment & Contract Page](/images/Payment_&_Contract_Page.jpg)
-![Payment & Contract Page Filter](/images/Payment_&_Contract_Page_Filter.jpg)
-
 
 
 ## Conclusion  
